@@ -1,0 +1,22 @@
+Anchors,x,y,z,
+A0,70,0,10,
+A1,70,24,10,
+A2,0,24,10,
+A3,0,0,10,
+Random noise,,,,
+rstd,0.007,0.007,0.007,0.007
+#rstd,0.02,0.02,0.02,0.02
+bias error,,,,
+rbias,0,0,0,0
+#rbias,0.01,0.01,0.01,0.01
+pixel sizes,,,,
+dx,1,,,
+dy,1,,,
+compute area,,,,
+xlim,0,70,,
+ylim,7,20.5,,
+zaltitude,,,,
+zt,4.5,,,
+number of trial,,,,
+ntrials,5,,,
+#ntrials,50,,,
